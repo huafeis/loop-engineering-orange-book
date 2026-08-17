@@ -75,6 +75,13 @@ An AI content creator with 500K+ followers across platforms. Built every product
 - **v260615** — First edition, written the week loop engineering emerged (June 2026), based on Addy Osmani's founding post and the official Claude Code / Codex docs.
 - AI tools evolve fast — refer to each product's official documentation for the latest.
 
+## 📚 Read Online on WorkBuddy
+
+This book is also available on WorkBuddy's knowledge base, one page per chapter — or just drop the link into your agent as context.
+
+https://www.workbuddy.cn/space/d/H6TXqZsuCnOe
+
+All orange books: https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## License
 
 [MIT License](LICENSE) — free to use, copy, modify, and distribute, including commercially. Attribution appreciated but not required.

@@ -75,6 +75,13 @@
 - **v260615** — 第一版，在循环工程刚冒出来那一周写成（2026 年 6 月），基于 Addy Osmani 的奠基文和 Claude Code / Codex 官方文档。
 - AI 工具迭代很快，最新信息以各产品官方文档为准。
 
+## 📚 在线阅读（WorkBuddy）
+
+本书已同步到 WorkBuddy 资料库：每章一个网页，也可以直接把链接丢给你的 Agent 当上下文。
+
+https://www.workbuddy.cn/space/d/H6TXqZsuCnOe
+
+全部橙皮书入口：https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## 许可
 
 [MIT License](LICENSE) — 可自由使用、复制、修改、分发，包括商用。注明出处更好，但不强制。
